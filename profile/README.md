@@ -3,7 +3,7 @@
 The Kumir Compose Project is a toolchain for modern [Kumir](https://github.com/a-a-maly/kumir2) development. 
 
 The project consists of the following tools:
-- [Kumir-Compose](/kumir-compose/compose) - central tool. Provides preprocessor, package manager and convenient debugger for Kumir2
+- [Kumir-Compose](https://github.com/kumir-compose/compose) - central tool. Provides preprocessor, package manager and convenient debugger for Kumir2
 - Essential libraries collection
 - IdeaMir (todo) - plugin for Kumir2 and Kumir-Compose support in JetBrains' IntelliJ IDEA platform
 <!--
